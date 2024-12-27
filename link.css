@@ -1,0 +1,218 @@
+a.home{
+  color: darkred;
+  font-size: small;
+  text-decoration: none;
+  position: relative;
+  right: 0;
+
+}
+a.home:hover
+{
+color: green;
+text-decoration: underline;
+                
+}
+
+a.aboutus{
+   color: blueviolet;
+   font-size: small;
+   text-decoration: none;
+   position: relative;
+   right: 0;
+}
+a.aboutus:hover{
+   color: green;
+   text-decoration: underline;
+   
+}
+a.oursystem{
+   color: red;
+   font-size: small;
+   text-decoration: none;
+   position: relative;
+   right: 0;
+}
+a.oursystem:hover{
+   color: green;
+   text-decoration:underline ;
+}
+a.contactus{
+   color: darkred;
+   font-size: small;
+
+   text-decoration: none;
+   position: relative;
+   text-align: right;
+   center: 0;
+}
+a.contactus:hover{
+   color: green;
+   text-decoration: none;
+   text-decoration: underline;
+}
+.container{
+   display: grid;
+   align-items: center;
+   grid-template-columns: 1fr 1fr 1fr;
+   column-gap: 5px;
+}
+img{
+   max-width: 100%;
+   max-height: 100%;
+}
+.text{
+   font-size: 15px;
+}
+.rest{
+   background-color: red;
+   font-style: serif;
+}
+.imgtext{
+   text-align: right;
+}
+.main{
+   width: 100%;
+   height: 100vh;
+
+}
+.left-column{
+
+   float: left;
+   width: 50%;
+}
+.right-column{
+   float: right;
+   width: 50%;
+}
+.last{
+   background-color: red;
+   width: 100%;
+   height: :100vh;
+}
+
+.last1{
+   float: left;
+   width: 25%;
+   background-color: red;
+}
+.last2{
+   float: left;
+   width: 25%;
+   background-color: red;
+}
+.last3{
+   float: right;
+   width: 25%;
+   background-color: red;
+}
+.last4{
+   float: right;
+   width: 25%;
+   background-color: red;
+}
+.coll1{
+   float: left;
+   width: 33.33%;
+}
+.coll2{
+   float: left;
+   width: 33.33%;
+}
+.coll3{
+   float: left;
+   width: 33.33%;
+}
+.par1{
+   float:  left;
+   width: 33.33%;
+}
+.par2{
+   float:  left;
+   width: 33.33%;
+}
+.par3{
+   float:  right;
+   width: 33.33%;
+}
+.weimg1{
+   float:  left;
+   width: 33.33%;
+}
+.weimg2{
+   float:  left;
+   width: 33.33%;
+}
+.weimg3{
+   float:  right;
+   width: 33.33%;
+}
+.rw1{
+   float: left;
+   width: 33.33%;
+}
+.rw2{
+   float: left;
+   width: 33.33%;
+}
+.rw3{
+   float: right;
+   width: 33.33%;
+}
+.IM1{
+   float:  left;
+   width: 33.33%;
+}
+.IM2{
+   float:  left;
+   width: 33.33%;
+}
+.IM3{
+   float:  right;
+   width: 33.33%;}
+.WR1{
+   float:  left;
+   width: 33.33%;
+}
+.WR2{
+   float:  left;
+   width: 33.33%;
+}
+.WR3{
+   float:  right;
+   width: 33.33%;
+}
+.FR1{
+   float: left;
+   width: 33.33%;
+}
+.FR2{
+   float: left;
+   width: 33.33%;
+}
+.FR3{
+   float: right;
+   width: 33.33%;
+}
+.IMS1{
+   float:  left;
+   width: 33.33%;
+}
+.IMS2{
+   float:  left;
+   width: 33.33%;
+}
+.IMS3{
+   float:  right;
+   width: 33.33%;}
+.WRS1{
+   float:  left;
+   width: 33.33%;
+}
+.WRS2{
+   float:  left;
+   width: 33.33%;
+}
+.WRS3{
+   float:  right;
+   width: 33.33%;
+}
